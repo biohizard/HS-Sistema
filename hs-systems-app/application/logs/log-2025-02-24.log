@@ -1,0 +1,742 @@
+INFO - 2025-02-24 00:04:07 --> Config Class Initialized
+INFO - 2025-02-24 00:04:07 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:04:07 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:04:07 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:04:07 --> URI Class Initialized
+DEBUG - 2025-02-24 00:04:07 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:04:07 --> Router Class Initialized
+INFO - 2025-02-24 00:04:07 --> Output Class Initialized
+INFO - 2025-02-24 00:04:07 --> Security Class Initialized
+DEBUG - 2025-02-24 00:04:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:04:07 --> Input Class Initialized
+INFO - 2025-02-24 00:04:07 --> Language Class Initialized
+INFO - 2025-02-24 00:04:07 --> Loader Class Initialized
+INFO - 2025-02-24 00:04:07 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:04:07 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:04:07 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:04:07 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:04:07 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:04:07 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:04:07 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:04:07 --> Controller Class Initialized
+INFO - 2025-02-24 00:04:07 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:04:07 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:04:08 --> Model "Querys" initialized
+INFO - 2025-02-24 00:04:08 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:04:08 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:04:08 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:04:08 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:04:08 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:04:08 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:04:08 --> Final output sent to browser
+DEBUG - 2025-02-24 00:04:08 --> Total execution time: 1.0976
+INFO - 2025-02-24 00:09:18 --> Config Class Initialized
+INFO - 2025-02-24 00:09:18 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:09:18 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:09:18 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:09:18 --> URI Class Initialized
+DEBUG - 2025-02-24 00:09:18 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:09:18 --> Router Class Initialized
+INFO - 2025-02-24 00:09:18 --> Output Class Initialized
+INFO - 2025-02-24 00:09:18 --> Security Class Initialized
+DEBUG - 2025-02-24 00:09:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:09:18 --> Input Class Initialized
+INFO - 2025-02-24 00:09:18 --> Language Class Initialized
+INFO - 2025-02-24 00:09:18 --> Loader Class Initialized
+INFO - 2025-02-24 00:09:18 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:09:18 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:09:18 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:09:18 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:09:18 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:09:18 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:09:18 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:09:18 --> Controller Class Initialized
+INFO - 2025-02-24 00:09:18 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:09:18 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:09:19 --> Model "Querys" initialized
+INFO - 2025-02-24 00:09:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:09:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:09:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:09:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:09:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:09:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:09:19 --> Final output sent to browser
+DEBUG - 2025-02-24 00:09:19 --> Total execution time: 1.1220
+INFO - 2025-02-24 00:10:20 --> Config Class Initialized
+INFO - 2025-02-24 00:10:20 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:10:20 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:10:20 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:10:20 --> URI Class Initialized
+DEBUG - 2025-02-24 00:10:20 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:10:20 --> Router Class Initialized
+INFO - 2025-02-24 00:10:20 --> Output Class Initialized
+INFO - 2025-02-24 00:10:20 --> Security Class Initialized
+DEBUG - 2025-02-24 00:10:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:10:20 --> Input Class Initialized
+INFO - 2025-02-24 00:10:20 --> Language Class Initialized
+INFO - 2025-02-24 00:10:20 --> Loader Class Initialized
+INFO - 2025-02-24 00:10:20 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:10:20 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:10:20 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:10:20 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:10:20 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:10:20 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:10:20 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:10:20 --> Controller Class Initialized
+INFO - 2025-02-24 00:10:20 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:10:20 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:10:21 --> Model "Querys" initialized
+INFO - 2025-02-24 00:10:21 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:10:21 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:10:21 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:10:21 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:10:21 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:10:21 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:10:21 --> Final output sent to browser
+DEBUG - 2025-02-24 00:10:21 --> Total execution time: 1.1132
+INFO - 2025-02-24 00:13:32 --> Config Class Initialized
+INFO - 2025-02-24 00:13:32 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:13:32 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:13:32 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:13:32 --> URI Class Initialized
+DEBUG - 2025-02-24 00:13:32 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:13:32 --> Router Class Initialized
+INFO - 2025-02-24 00:13:32 --> Output Class Initialized
+INFO - 2025-02-24 00:13:32 --> Security Class Initialized
+DEBUG - 2025-02-24 00:13:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:13:32 --> Input Class Initialized
+INFO - 2025-02-24 00:13:32 --> Language Class Initialized
+INFO - 2025-02-24 00:13:32 --> Loader Class Initialized
+INFO - 2025-02-24 00:13:32 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:13:32 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:13:32 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:13:32 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:13:32 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:13:32 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:13:32 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:13:32 --> Controller Class Initialized
+INFO - 2025-02-24 00:13:32 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:13:32 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:13:33 --> Model "Querys" initialized
+INFO - 2025-02-24 00:13:33 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:13:33 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:13:33 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:13:33 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:13:33 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:13:33 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:13:33 --> Final output sent to browser
+DEBUG - 2025-02-24 00:13:33 --> Total execution time: 1.0904
+INFO - 2025-02-24 00:16:15 --> Config Class Initialized
+INFO - 2025-02-24 00:16:15 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:16:15 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:16:15 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:16:15 --> URI Class Initialized
+DEBUG - 2025-02-24 00:16:15 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:16:15 --> Router Class Initialized
+INFO - 2025-02-24 00:16:15 --> Output Class Initialized
+INFO - 2025-02-24 00:16:15 --> Security Class Initialized
+DEBUG - 2025-02-24 00:16:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:16:15 --> Input Class Initialized
+INFO - 2025-02-24 00:16:15 --> Language Class Initialized
+INFO - 2025-02-24 00:16:15 --> Loader Class Initialized
+INFO - 2025-02-24 00:16:15 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:16:15 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:16:15 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:16:15 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:16:15 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:16:15 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:16:15 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:16:15 --> Controller Class Initialized
+INFO - 2025-02-24 00:16:15 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:16:16 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:16:16 --> Model "Querys" initialized
+INFO - 2025-02-24 00:16:16 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:16:16 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:16:16 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:16:16 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:16:16 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:16:16 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:16:16 --> Final output sent to browser
+DEBUG - 2025-02-24 00:16:16 --> Total execution time: 1.1056
+INFO - 2025-02-24 00:16:59 --> Config Class Initialized
+INFO - 2025-02-24 00:16:59 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:16:59 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:16:59 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:16:59 --> URI Class Initialized
+DEBUG - 2025-02-24 00:16:59 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:16:59 --> Router Class Initialized
+INFO - 2025-02-24 00:16:59 --> Output Class Initialized
+INFO - 2025-02-24 00:16:59 --> Security Class Initialized
+DEBUG - 2025-02-24 00:16:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:16:59 --> Input Class Initialized
+INFO - 2025-02-24 00:16:59 --> Language Class Initialized
+INFO - 2025-02-24 00:16:59 --> Loader Class Initialized
+INFO - 2025-02-24 00:16:59 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:16:59 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:16:59 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:16:59 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:16:59 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:16:59 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:16:59 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:16:59 --> Controller Class Initialized
+INFO - 2025-02-24 00:16:59 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:17:00 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:17:00 --> Model "Querys" initialized
+INFO - 2025-02-24 00:17:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:17:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:17:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:17:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:17:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:17:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:17:00 --> Final output sent to browser
+DEBUG - 2025-02-24 00:17:00 --> Total execution time: 1.1893
+INFO - 2025-02-24 00:18:18 --> Config Class Initialized
+INFO - 2025-02-24 00:18:18 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:18:18 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:18:18 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:18:18 --> URI Class Initialized
+DEBUG - 2025-02-24 00:18:18 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:18:18 --> Router Class Initialized
+INFO - 2025-02-24 00:18:18 --> Output Class Initialized
+INFO - 2025-02-24 00:18:18 --> Security Class Initialized
+DEBUG - 2025-02-24 00:18:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:18:18 --> Input Class Initialized
+INFO - 2025-02-24 00:18:18 --> Language Class Initialized
+INFO - 2025-02-24 00:18:18 --> Loader Class Initialized
+INFO - 2025-02-24 00:18:18 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:18:18 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:18:18 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:18:18 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:18:18 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:18:18 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:18:18 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:18:18 --> Controller Class Initialized
+INFO - 2025-02-24 00:18:18 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:18:18 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:18:19 --> Model "Querys" initialized
+INFO - 2025-02-24 00:18:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:18:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:18:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:18:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:18:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:18:19 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:18:19 --> Final output sent to browser
+DEBUG - 2025-02-24 00:18:19 --> Total execution time: 1.1448
+INFO - 2025-02-24 00:18:52 --> Config Class Initialized
+INFO - 2025-02-24 00:18:52 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:18:52 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:18:52 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:18:52 --> URI Class Initialized
+DEBUG - 2025-02-24 00:18:52 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:18:52 --> Router Class Initialized
+INFO - 2025-02-24 00:18:52 --> Output Class Initialized
+INFO - 2025-02-24 00:18:52 --> Security Class Initialized
+DEBUG - 2025-02-24 00:18:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:18:52 --> Input Class Initialized
+INFO - 2025-02-24 00:18:52 --> Language Class Initialized
+INFO - 2025-02-24 00:18:52 --> Loader Class Initialized
+INFO - 2025-02-24 00:18:52 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:18:52 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:18:52 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:18:52 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:18:52 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:18:52 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:18:52 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:18:52 --> Controller Class Initialized
+INFO - 2025-02-24 00:18:52 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:18:52 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:18:53 --> Model "Querys" initialized
+INFO - 2025-02-24 00:18:53 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:18:53 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:18:53 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:18:53 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:18:53 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:18:53 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:18:53 --> Final output sent to browser
+DEBUG - 2025-02-24 00:18:53 --> Total execution time: 1.1145
+INFO - 2025-02-24 00:18:56 --> Config Class Initialized
+INFO - 2025-02-24 00:18:56 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:18:56 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:18:56 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:18:56 --> URI Class Initialized
+DEBUG - 2025-02-24 00:18:56 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:18:56 --> Router Class Initialized
+INFO - 2025-02-24 00:18:56 --> Output Class Initialized
+INFO - 2025-02-24 00:18:56 --> Security Class Initialized
+DEBUG - 2025-02-24 00:18:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:18:56 --> Input Class Initialized
+INFO - 2025-02-24 00:18:56 --> Language Class Initialized
+INFO - 2025-02-24 00:18:56 --> Loader Class Initialized
+INFO - 2025-02-24 00:18:56 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:18:56 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:18:56 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:18:56 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:18:56 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:18:56 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:18:56 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:18:56 --> Controller Class Initialized
+INFO - 2025-02-24 00:18:56 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:18:56 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:18:57 --> Model "Querys" initialized
+INFO - 2025-02-24 00:18:57 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:18:57 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:18:57 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:18:57 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:18:57 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:18:57 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:18:57 --> Final output sent to browser
+DEBUG - 2025-02-24 00:18:57 --> Total execution time: 1.1055
+INFO - 2025-02-24 00:19:10 --> Config Class Initialized
+INFO - 2025-02-24 00:19:10 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:19:10 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:19:10 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:19:11 --> URI Class Initialized
+DEBUG - 2025-02-24 00:19:11 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:19:11 --> Router Class Initialized
+INFO - 2025-02-24 00:19:11 --> Output Class Initialized
+INFO - 2025-02-24 00:19:11 --> Security Class Initialized
+DEBUG - 2025-02-24 00:19:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:19:11 --> Input Class Initialized
+INFO - 2025-02-24 00:19:11 --> Language Class Initialized
+INFO - 2025-02-24 00:19:11 --> Loader Class Initialized
+INFO - 2025-02-24 00:19:11 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:19:11 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:19:11 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:19:11 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:19:11 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:19:11 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:19:11 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:19:11 --> Controller Class Initialized
+INFO - 2025-02-24 00:19:11 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:19:11 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:19:12 --> Model "Querys" initialized
+INFO - 2025-02-24 00:19:12 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:19:12 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:19:12 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:19:12 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:19:12 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:19:12 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:19:12 --> Final output sent to browser
+DEBUG - 2025-02-24 00:19:12 --> Total execution time: 1.1309
+INFO - 2025-02-24 00:20:17 --> Config Class Initialized
+INFO - 2025-02-24 00:20:17 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:20:17 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:20:17 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:20:17 --> URI Class Initialized
+DEBUG - 2025-02-24 00:20:17 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:20:17 --> Router Class Initialized
+INFO - 2025-02-24 00:20:17 --> Output Class Initialized
+INFO - 2025-02-24 00:20:17 --> Security Class Initialized
+DEBUG - 2025-02-24 00:20:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:20:17 --> Input Class Initialized
+INFO - 2025-02-24 00:20:17 --> Language Class Initialized
+INFO - 2025-02-24 00:20:17 --> Loader Class Initialized
+INFO - 2025-02-24 00:20:17 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:20:17 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:20:17 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:20:17 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:20:17 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:20:17 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:20:17 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:20:17 --> Controller Class Initialized
+INFO - 2025-02-24 00:20:17 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:20:18 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:20:18 --> Model "Querys" initialized
+INFO - 2025-02-24 00:20:18 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:20:18 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:20:18 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:20:18 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:20:18 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:20:18 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:20:18 --> Final output sent to browser
+DEBUG - 2025-02-24 00:20:18 --> Total execution time: 1.1123
+INFO - 2025-02-24 00:20:50 --> Config Class Initialized
+INFO - 2025-02-24 00:20:50 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:20:50 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:20:50 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:20:50 --> URI Class Initialized
+INFO - 2025-02-24 00:20:50 --> Router Class Initialized
+INFO - 2025-02-24 00:20:50 --> Output Class Initialized
+INFO - 2025-02-24 00:20:50 --> Security Class Initialized
+DEBUG - 2025-02-24 00:20:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:20:50 --> Input Class Initialized
+INFO - 2025-02-24 00:20:50 --> Language Class Initialized
+INFO - 2025-02-24 00:20:50 --> Loader Class Initialized
+INFO - 2025-02-24 00:20:50 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:20:50 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:20:50 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:20:50 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:20:50 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:20:50 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:20:50 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:20:50 --> Controller Class Initialized
+INFO - 2025-02-24 00:20:50 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:20:50 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:20:51 --> Model "Querys" initialized
+INFO - 2025-02-24 00:20:51 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:20:51 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:20:51 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/log-in.php
+INFO - 2025-02-24 00:20:51 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:20:51 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:20:51 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:20:51 --> Final output sent to browser
+DEBUG - 2025-02-24 00:20:51 --> Total execution time: 1.3366
+INFO - 2025-02-24 00:20:54 --> Config Class Initialized
+INFO - 2025-02-24 00:20:54 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:20:54 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:20:54 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:20:54 --> URI Class Initialized
+INFO - 2025-02-24 00:20:54 --> Router Class Initialized
+INFO - 2025-02-24 00:20:54 --> Output Class Initialized
+INFO - 2025-02-24 00:20:54 --> Security Class Initialized
+DEBUG - 2025-02-24 00:20:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:20:54 --> Input Class Initialized
+INFO - 2025-02-24 00:20:54 --> Language Class Initialized
+INFO - 2025-02-24 00:20:54 --> Loader Class Initialized
+INFO - 2025-02-24 00:20:54 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:20:54 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:20:54 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:20:54 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:20:54 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:20:54 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:20:54 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:20:54 --> Controller Class Initialized
+INFO - 2025-02-24 00:20:54 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:20:54 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:20:55 --> Model "Querys" initialized
+INFO - 2025-02-24 00:20:55 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:20:55 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:20:55 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/log-out.php
+INFO - 2025-02-24 00:20:55 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:20:55 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:20:55 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:20:55 --> Final output sent to browser
+DEBUG - 2025-02-24 00:20:55 --> Total execution time: 1.2198
+INFO - 2025-02-24 00:20:57 --> Config Class Initialized
+INFO - 2025-02-24 00:20:57 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:20:57 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:20:57 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:20:57 --> URI Class Initialized
+DEBUG - 2025-02-24 00:20:57 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:20:57 --> Router Class Initialized
+INFO - 2025-02-24 00:20:57 --> Output Class Initialized
+INFO - 2025-02-24 00:20:57 --> Security Class Initialized
+DEBUG - 2025-02-24 00:20:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:20:57 --> Input Class Initialized
+INFO - 2025-02-24 00:20:57 --> Language Class Initialized
+INFO - 2025-02-24 00:20:57 --> Loader Class Initialized
+INFO - 2025-02-24 00:20:57 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:20:57 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:20:57 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:20:57 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:20:57 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:20:57 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:20:57 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:20:57 --> Controller Class Initialized
+INFO - 2025-02-24 00:20:57 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:20:57 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:20:58 --> Model "Querys" initialized
+INFO - 2025-02-24 00:20:58 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:20:58 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:20:58 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:20:58 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:20:58 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:20:58 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:20:58 --> Final output sent to browser
+DEBUG - 2025-02-24 00:20:58 --> Total execution time: 1.1690
+INFO - 2025-02-24 00:21:06 --> Config Class Initialized
+INFO - 2025-02-24 00:21:06 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:21:06 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:21:06 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:21:06 --> URI Class Initialized
+INFO - 2025-02-24 00:21:06 --> Router Class Initialized
+INFO - 2025-02-24 00:21:06 --> Output Class Initialized
+INFO - 2025-02-24 00:21:06 --> Security Class Initialized
+DEBUG - 2025-02-24 00:21:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:21:06 --> Input Class Initialized
+INFO - 2025-02-24 00:21:06 --> Language Class Initialized
+INFO - 2025-02-24 00:21:06 --> Loader Class Initialized
+INFO - 2025-02-24 00:21:06 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:21:06 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:21:06 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:21:06 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:21:06 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:21:06 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:21:06 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:21:06 --> Controller Class Initialized
+INFO - 2025-02-24 00:21:06 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:21:06 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:21:07 --> Model "Querys" initialized
+INFO - 2025-02-24 00:21:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:21:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:21:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/log-in.php
+INFO - 2025-02-24 00:21:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:21:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:21:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:21:07 --> Final output sent to browser
+DEBUG - 2025-02-24 00:21:07 --> Total execution time: 1.3230
+INFO - 2025-02-24 00:21:09 --> Config Class Initialized
+INFO - 2025-02-24 00:21:09 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:21:09 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:21:09 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:21:09 --> URI Class Initialized
+INFO - 2025-02-24 00:21:09 --> Router Class Initialized
+INFO - 2025-02-24 00:21:09 --> Output Class Initialized
+INFO - 2025-02-24 00:21:09 --> Security Class Initialized
+DEBUG - 2025-02-24 00:21:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:21:09 --> Input Class Initialized
+INFO - 2025-02-24 00:21:09 --> Language Class Initialized
+INFO - 2025-02-24 00:21:09 --> Loader Class Initialized
+INFO - 2025-02-24 00:21:09 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:21:09 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:21:09 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:21:09 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:21:09 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:21:09 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:21:09 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:21:09 --> Controller Class Initialized
+INFO - 2025-02-24 00:21:09 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:21:09 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:21:10 --> Model "Querys" initialized
+INFO - 2025-02-24 00:21:10 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:21:10 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/dashboard.php
+INFO - 2025-02-24 00:21:10 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/header.php
+INFO - 2025-02-24 00:21:10 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/beginmenu.php
+INFO - 2025-02-24 00:21:10 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/inicio.php
+INFO - 2025-02-24 00:21:10 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/endmenu.php
+INFO - 2025-02-24 00:21:10 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:21:10 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:21:10 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:21:10 --> Final output sent to browser
+DEBUG - 2025-02-24 00:21:10 --> Total execution time: 1.6110
+INFO - 2025-02-24 00:21:30 --> Config Class Initialized
+INFO - 2025-02-24 00:21:30 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:21:30 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:21:30 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:21:30 --> URI Class Initialized
+INFO - 2025-02-24 00:21:30 --> Router Class Initialized
+INFO - 2025-02-24 00:21:30 --> Output Class Initialized
+INFO - 2025-02-24 00:21:30 --> Security Class Initialized
+DEBUG - 2025-02-24 00:21:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:21:30 --> Input Class Initialized
+INFO - 2025-02-24 00:21:30 --> Language Class Initialized
+INFO - 2025-02-24 00:21:30 --> Loader Class Initialized
+INFO - 2025-02-24 00:21:30 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:21:30 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:21:30 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:21:30 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:21:30 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:21:30 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:21:30 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:21:30 --> Controller Class Initialized
+INFO - 2025-02-24 00:21:30 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:21:31 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:21:31 --> Model "Querys" initialized
+INFO - 2025-02-24 00:21:31 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:21:31 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/dashboard.php
+INFO - 2025-02-24 00:21:31 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/header.php
+INFO - 2025-02-24 00:21:31 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/beginmenu.php
+INFO - 2025-02-24 00:21:31 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\usuarios/inicio.php
+INFO - 2025-02-24 00:21:32 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\usuarios/inicio2.php
+INFO - 2025-02-24 00:21:32 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/endmenu.php
+INFO - 2025-02-24 00:21:32 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\usuarios/inicio3.php
+INFO - 2025-02-24 00:21:32 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:21:32 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:21:32 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:21:32 --> Final output sent to browser
+DEBUG - 2025-02-24 00:21:32 --> Total execution time: 1.3102
+INFO - 2025-02-24 00:21:47 --> Config Class Initialized
+INFO - 2025-02-24 00:21:47 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:21:47 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:21:47 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:21:47 --> URI Class Initialized
+INFO - 2025-02-24 00:21:47 --> Router Class Initialized
+INFO - 2025-02-24 00:21:47 --> Output Class Initialized
+INFO - 2025-02-24 00:21:47 --> Security Class Initialized
+DEBUG - 2025-02-24 00:21:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:21:47 --> Input Class Initialized
+INFO - 2025-02-24 00:21:47 --> Language Class Initialized
+INFO - 2025-02-24 00:21:47 --> Loader Class Initialized
+INFO - 2025-02-24 00:21:47 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:21:47 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:21:47 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:21:47 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:21:47 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:21:47 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:21:47 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:21:47 --> Controller Class Initialized
+INFO - 2025-02-24 00:21:47 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:21:48 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:21:48 --> Model "Querys" initialized
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/dashboard.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/header.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/loading.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/beginmenu.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\pacientes/pacientes/inicio.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\pacientes/pacientes/inicio2.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\pacientes/pacientes/inicio3.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/endmenu.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:21:48 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:21:48 --> Final output sent to browser
+DEBUG - 2025-02-24 00:21:48 --> Total execution time: 1.4585
+INFO - 2025-02-24 00:21:59 --> Config Class Initialized
+INFO - 2025-02-24 00:21:59 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:21:59 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:21:59 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:21:59 --> URI Class Initialized
+INFO - 2025-02-24 00:21:59 --> Router Class Initialized
+INFO - 2025-02-24 00:21:59 --> Output Class Initialized
+INFO - 2025-02-24 00:21:59 --> Security Class Initialized
+DEBUG - 2025-02-24 00:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:21:59 --> Input Class Initialized
+INFO - 2025-02-24 00:21:59 --> Language Class Initialized
+INFO - 2025-02-24 00:21:59 --> Loader Class Initialized
+INFO - 2025-02-24 00:21:59 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:21:59 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:21:59 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:21:59 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:21:59 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:21:59 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:21:59 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:21:59 --> Controller Class Initialized
+INFO - 2025-02-24 00:21:59 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:22:00 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:22:00 --> Model "Querys" initialized
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/dashboard.php
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/header.php
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/loading.php
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/beginmenu.php
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\pacientes/consultas/inicio.php
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\pacientes/consultas/inicio2.php
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/endmenu.php
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:22:00 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:22:00 --> Final output sent to browser
+DEBUG - 2025-02-24 00:22:00 --> Total execution time: 1.2113
+INFO - 2025-02-24 00:23:42 --> Config Class Initialized
+INFO - 2025-02-24 00:23:42 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:23:42 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:23:42 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:23:42 --> URI Class Initialized
+INFO - 2025-02-24 00:23:42 --> Router Class Initialized
+INFO - 2025-02-24 00:23:42 --> Output Class Initialized
+INFO - 2025-02-24 00:23:42 --> Security Class Initialized
+DEBUG - 2025-02-24 00:23:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:23:42 --> Input Class Initialized
+INFO - 2025-02-24 00:23:42 --> Language Class Initialized
+INFO - 2025-02-24 00:23:42 --> Loader Class Initialized
+INFO - 2025-02-24 00:23:42 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:23:42 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:23:42 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:23:42 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:23:42 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:23:42 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:23:42 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:23:42 --> Controller Class Initialized
+INFO - 2025-02-24 00:23:42 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:23:42 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:23:43 --> Model "Querys" initialized
+INFO - 2025-02-24 00:23:43 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:23:43 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/dashboard.php
+INFO - 2025-02-24 00:23:43 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/header.php
+INFO - 2025-02-24 00:23:43 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/beginmenu.php
+INFO - 2025-02-24 00:23:43 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/inicio.php
+INFO - 2025-02-24 00:23:43 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\dashboard/endmenu.php
+INFO - 2025-02-24 00:23:43 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:23:43 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:23:43 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:23:43 --> Final output sent to browser
+DEBUG - 2025-02-24 00:23:43 --> Total execution time: 1.1215
+INFO - 2025-02-24 00:54:49 --> Config Class Initialized
+INFO - 2025-02-24 00:54:49 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:54:49 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:54:49 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:54:49 --> URI Class Initialized
+INFO - 2025-02-24 00:54:49 --> Router Class Initialized
+INFO - 2025-02-24 00:54:49 --> Output Class Initialized
+INFO - 2025-02-24 00:54:49 --> Security Class Initialized
+DEBUG - 2025-02-24 00:54:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:54:49 --> Input Class Initialized
+INFO - 2025-02-24 00:54:49 --> Language Class Initialized
+INFO - 2025-02-24 00:54:49 --> Loader Class Initialized
+INFO - 2025-02-24 00:54:49 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:54:49 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:54:49 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:54:49 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:54:49 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:54:49 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:54:49 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:54:49 --> Controller Class Initialized
+INFO - 2025-02-24 00:54:49 --> Database Driver Class Initialized
+ERROR - 2025-02-24 00:54:49 --> Severity: Warning --> mysqli::real_connect(): Error while reading greeting packet. PID=15848 D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2025-02-24 00:54:49 --> Severity: error --> Exception: MySQL server has gone away D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2025-02-24 00:54:49 --> Severity: Warning --> include(D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\errors\html\error_exception.php): Failed to open stream: No such file or directory D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\system\core\Exceptions.php 221
+ERROR - 2025-02-24 00:54:49 --> Severity: Warning --> include(): Failed opening 'D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\errors\html\error_exception.php' for inclusion (include_path='C:\xampp\php\PEAR') D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\system\core\Exceptions.php 221
+INFO - 2025-02-24 00:55:03 --> Config Class Initialized
+INFO - 2025-02-24 00:55:03 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:55:03 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:55:03 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:55:03 --> URI Class Initialized
+INFO - 2025-02-24 00:55:03 --> Router Class Initialized
+INFO - 2025-02-24 00:55:03 --> Output Class Initialized
+INFO - 2025-02-24 00:55:03 --> Security Class Initialized
+DEBUG - 2025-02-24 00:55:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:55:03 --> Input Class Initialized
+INFO - 2025-02-24 00:55:03 --> Language Class Initialized
+INFO - 2025-02-24 00:55:03 --> Loader Class Initialized
+INFO - 2025-02-24 00:55:03 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:55:03 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:55:03 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:55:03 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:55:03 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:55:03 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:55:03 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:55:03 --> Controller Class Initialized
+INFO - 2025-02-24 00:55:03 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:55:03 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:55:04 --> Model "Querys" initialized
+INFO - 2025-02-24 00:55:04 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:55:04 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:55:04 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/log-out.php
+INFO - 2025-02-24 00:55:04 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:55:04 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:55:04 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:55:04 --> Final output sent to browser
+DEBUG - 2025-02-24 00:55:04 --> Total execution time: 1.1149
+INFO - 2025-02-24 00:55:06 --> Config Class Initialized
+INFO - 2025-02-24 00:55:06 --> Hooks Class Initialized
+DEBUG - 2025-02-24 00:55:06 --> UTF-8 Support Enabled
+INFO - 2025-02-24 00:55:06 --> Utf8 Class Initialized
+INFO - 2025-02-24 00:55:06 --> URI Class Initialized
+DEBUG - 2025-02-24 00:55:06 --> No URI present. Default controller set.
+INFO - 2025-02-24 00:55:06 --> Router Class Initialized
+INFO - 2025-02-24 00:55:06 --> Output Class Initialized
+INFO - 2025-02-24 00:55:06 --> Security Class Initialized
+DEBUG - 2025-02-24 00:55:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-02-24 00:55:06 --> Input Class Initialized
+INFO - 2025-02-24 00:55:06 --> Language Class Initialized
+INFO - 2025-02-24 00:55:06 --> Loader Class Initialized
+INFO - 2025-02-24 00:55:06 --> Helper loaded: url_helper
+INFO - 2025-02-24 00:55:06 --> Helper loaded: string_helper
+INFO - 2025-02-24 00:55:06 --> Helper loaded: date_helper
+INFO - 2025-02-24 00:55:06 --> Helper loaded: array_helper
+INFO - 2025-02-24 00:55:06 --> Helper loaded: security_helper
+INFO - 2025-02-24 00:55:06 --> Helper loaded: text_helper
+INFO - 2025-02-24 00:55:06 --> Helper loaded: session_helper
+INFO - 2025-02-24 00:55:06 --> Controller Class Initialized
+INFO - 2025-02-24 00:55:06 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:55:06 --> Database Driver Class Initialized
+INFO - 2025-02-24 00:55:07 --> Model "Querys" initialized
+INFO - 2025-02-24 00:55:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/header.php
+INFO - 2025-02-24 00:55:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/body/login.php
+INFO - 2025-02-24 00:55:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\login/sign-in.php
+INFO - 2025-02-24 00:55:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/copyright.php
+INFO - 2025-02-24 00:55:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/dark_light.php
+INFO - 2025-02-24 00:55:07 --> File loaded: D:\noSync\Server\php\2025\HS-Sistema\hs-systems-app\application\views\loop/footer/footer.php
+INFO - 2025-02-24 00:55:07 --> Final output sent to browser
+DEBUG - 2025-02-24 00:55:07 --> Total execution time: 1.1184
