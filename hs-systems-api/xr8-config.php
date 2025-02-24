@@ -94,7 +94,11 @@ function configureByZone($zona) {
         echo "ngrok";
     } elseif ($zona == 'web') {
         // Configuración para web
-        echo "web";
+        define("BASE_URL", '//'      );
+        define("APP_URL", BASE_URL   . "app.". $_SERVER['HTTP_HOST']);
+        define("API_URL", BASE_URL   . "api.". $_SERVER['HTTP_HOST']);
+        define("CDN_URL", BASE_URL   . "cdn.". $_SERVER['HTTP_HOST']);
+        define("INDEX_PAGE", APP_URL . '');
     }
 }
 
