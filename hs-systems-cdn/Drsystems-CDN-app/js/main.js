@@ -112,8 +112,8 @@ if(myArray[2] == "localhost"){
     var dominioBase = "//localhost/server/php/2025/HS-Sistema/"
     var urlBaseApi  = dominioBase + "hs-systems-api/index.php/"
     }else{
-        var dominioBase = ""
-        var urlBaseApi  = dominioBase + "hs-systems-api/index.php/"
+        var dominioBase = "hairlessskin.mx/"
+        var urlBaseApi  = "//api." + dominioBase + "index.php/"
     }
 
 //! moment.js
