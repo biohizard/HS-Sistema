@@ -94,7 +94,7 @@ function configureByZone($zona) {
         echo "ngrok";
     } elseif ($zona == 'web') {
         // Configuración para web
-        define("BASE_URL", 'hairlessskin.mx'      );
+        define("BASE_URL", 'hairlessskin.mx/'      );
         define("APP_URL", "//app.". BASE_URL);
         define("API_URL", "//api.". BASE_URL);
         define("CDN_URL", "//cdn.". BASE_URL);
