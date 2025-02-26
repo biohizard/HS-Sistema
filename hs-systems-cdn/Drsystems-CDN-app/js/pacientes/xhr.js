@@ -196,11 +196,11 @@ function updatePacientesJqxhr() {
         modalInstance.hide(); // Cerrar el modal después de la actualización
 
         // Obtener la referencia del modal de actualización
-        const updateModal = document.getElementById(viweLoading);
+        const updateModalVl = document.getElementById(viweLoading);
 
         // Obtener o crear la instancia del modal para cerrarlo correctamente
-        const modalInstance = bootstrap.Modal.getOrCreateInstance(updateModal);
-        modalInstance.hide(); // Cerrar el modal después de la actualización        
+        const modalInstanceVl = bootstrap.Modal.getOrCreateInstance(updateModalVl);
+        modalInstanceVl.hide(); // Cerrar el modal después de la actualización        
         
     })
     .catch((jqXHR, textStatus, errorThrown) => {
