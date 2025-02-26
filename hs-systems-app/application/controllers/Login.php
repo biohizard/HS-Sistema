@@ -11,6 +11,7 @@
             $this->default = $this->load->database('default', TRUE);
             $this->load->model('log/Querys');
             $this->Querys->logNew();
+            set_language();
         }
         //--->
 
@@ -24,6 +25,7 @@
             $data['sub_page_title2'] = 'Login';
             $data['css']             = 'user';
             $data['js']              = 'main,user';
+
             $this->load->view('loop/header', $data);
 
             $this->load->view('loop/footer/dark_light', $data);
@@ -47,6 +49,14 @@
             $data['js']              = 'main,sign_in/sign_in';
 
             $data['url']             = INDEX_PAGE . "?ok=101&since=login&sha1=" . $sha1;
+
+            //
+            $data['user_txt']     = $this->lang->line('user');
+            $data['password_txt'] = $this->lang->line('password');
+            $data['remenber_txt'] = $this->lang->line('remenber');
+
+            $data['aceptar_txt'] = $this->lang->line('aceptar');
+            
             //-------------------------------------------------->
             //<head>
             $this->load->view('loop/header', $data);

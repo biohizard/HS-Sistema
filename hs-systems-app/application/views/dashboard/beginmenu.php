@@ -5,6 +5,7 @@
     <div class="sidebar border border-right col-md-3 col-lg-2 p-0 bg-body-tertiary">
       <div class="offcanvas-md offcanvas-end bg-body-tertiary" tabindex="-1" id="sidebarMenu" aria-labelledby="sidebarMenuLabel">
         <div class="offcanvas-header">
+        <img src="https://hairlessskin.mx/assets/img/logo.svg" alt="" class="img-fluid" width="80%">          
           <h5 class="offcanvas-title text-center text-uppercase" id="sidebarMenuLabel"><?php print_r($_SESSION['User']); ?></h5>
           <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#sidebarMenu" aria-label="Close"></button>
         </div>
@@ -48,6 +49,13 @@
           <hr class="my-3">
 
           <ul class="nav flex-column mb-auto">
+          <h6 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-body-secondary text-uppercase">
+            <?php echo $_SESSION['Firstname']. " ".$_SESSION['Secondname']; ?>
+            <a class="link-secondary" href="#" aria-label="Add a new report">
+              <svg class="bi"><use xlink:href="#plus-circle"/></svg>
+            </a>
+          </h6>
+
             <li class="nav-item">
               <a class="nav-link d-flex align-items-center gap-2" href="#">
                 <svg class="bi"><use xlink:href="#gear-wide-connected"/></svg>

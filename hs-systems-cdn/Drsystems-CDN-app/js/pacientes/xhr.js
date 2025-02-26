@@ -107,6 +107,7 @@ function pacientesViewJqxhr(){
 
 /*##### U #####*/
 //------------------------------------------------->
+/*
 function updatePacientesJqxhr(){
     console.log('Run: Paciente Update Xhr')
     var settings = {
@@ -152,6 +153,65 @@ function updatePacientesJqxhr(){
     
     console.warn(jqxhr)
 }
+*/
+function updatePacientesJqxhr() {
+    console.log('Run: Paciente Update Xhr'); // Mensaje en consola para indicar el inicio de la función
+
+    // URL de la API donde se enviarán los datos
+    const url = urlBaseApi + 'pacientes/pacientesUpdate';
+
+    // Configuración de los encabezados de la petición HTTP
+    const headers = {
+        "xr8-api-key": "ewf45r4435trge", // Clave de autenticación de la API
+        "Content-Type": "application/x-www-form-urlencoded", // Tipo de contenido de los datos enviados
+        "Cache-Control": "no-cache" // Deshabilita la caché en la solicitud
+    };
+
+    // Datos a enviar en la solicitud AJAX, obtenidos de los campos del formulario
+    const data = {
+        "id_advance": $("#id_advance").val(), // ID del paciente
+        "permissions": 'paciente', // Permiso asociado
+        "email": $("#uuemail").val(), // Correo electrónico del paciente
+        "first": $("#uufirstName").val(), // Nombre
+        "second": $("#uulastName").val(), // Apellido
+        "tel": $("#uuPhone").val(), // Teléfono
+        "puesto": 'drpacientes' // Cargo o rol del paciente
+    };
+
+    // Realizamos la petición AJAX para actualizar el paciente
+    $.ajax({
+        url: url,      // URL de la API
+        method: "POST", // Método HTTP POST
+        headers: headers, // Encabezados configurados
+        data: data // Datos enviados en el cuerpo de la solicitud
+    })
+    .then(response => {
+        console.log('Run: update modal closed'); // Indica que la actualización fue exitosa
+
+        // Obtener la referencia del modal de actualización
+        const updateModal = document.getElementById('updateModal');
+
+        // Obtener o crear la instancia del modal para cerrarlo correctamente
+        const modalInstance = bootstrap.Modal.getOrCreateInstance(updateModal);
+        modalInstance.hide(); // Cerrar el modal después de la actualización
+    })
+    .catch((jqXHR, textStatus, errorThrown) => {
+        console.info('Run: error alluser'); // Mensaje en consola si hay un error en la solicitud
+
+        // Llamar a la función de manejo de errores con los detalles de la respuesta
+        xhrError(jqXHR, textStatus, errorThrown);
+    })
+    .always(() => {
+        // Volver a cargar la lista de pacientes después de la actualización
+        pacientesViewJqxhr();
+
+        // Deshabilitar los botones de actualización y eliminación para evitar acciones repetidas
+        $("#btnUpdate, #btnDelete").prop('disabled', true);
+
+        console.info('Run: Loadpacientes xhr'); // Mensaje en consola para indicar que se ha recargado la vista
+    });
+}
+
 //------------------------------------------------->
 
 /*##### D #####*/
